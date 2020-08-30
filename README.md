@@ -9,7 +9,7 @@
     [Github](https://github.com/pankajjangid)
     [Twitter](https://twitter.com/pankaj0619)
    
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Android/Flutter or any tech related stuff.
 - 😄 Pronouns:He/His
 - ⚡ Fun fact: Love to learn new things and listen podcasts.
 
