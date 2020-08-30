@@ -12,7 +12,8 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - 😄 Pronouns:He/His
 - ⚡ Fun fact: ...
--->
 
+## Top Languages
 <img src="https://github-readme-stats.vercel.app/api?username=pankajjangid&&show_icons=true&title_color=00b7c2&icon_color=00b7c2&text_color=81b214&bg_color=1a1a2e">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajjangid&layout=compact">
+## Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajjangid">
