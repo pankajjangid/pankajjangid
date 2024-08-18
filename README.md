@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working for [UOB TMRW](https://www.uob.com.my/personal/eservices/tmrw/index.page)
 - 🌱 I’m currently learning Jetpack compose,Dart, Flutter, AWS
-- 💼 For my work you can visit my [portfolio](https://github.com/pankajjangid/Portfolio)
+- 💼 For my work you can visit my [portfolio](https://pankajjangid.github.io/)
 - 📫 How to reach me:
     [pankajjangid.com](https://pankajjangid.com/)
     [Linkedin](https://www.linkedin.com/in/pankajjangid/)
